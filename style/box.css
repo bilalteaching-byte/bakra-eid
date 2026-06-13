@@ -1,0 +1,32 @@
+.box_1 {
+  max-width: 800px;
+  min-width: 400px;
+  border-width: 10px 5px 3px 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 12px;
+}
+
+.box_2 {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 10px;
+  border-radius: 100%;
+  border-width: 10px 6px 3px 1px;
+  border-color: #bd40bd #b324b3 #a059a0 #d9b6d9;
+  border-style: solid;
+  margin: 10px auto;
+}
+
+.navbar {
+  height: 50px;
+  max-width: 800px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+  margin: 10px auto;
+}
